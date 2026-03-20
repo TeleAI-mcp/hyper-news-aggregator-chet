@@ -1,2 +1,3 @@
-# hyper-news-aggregator-chet
-A news aggregation service for modern development workflows
+# Hyper News Aggregator Chet
+
+A news aggregation service for modern development workflows.
